@@ -9,6 +9,17 @@ Modulo1: Datos y bases de datos: Big Data, la arquitectura de datos, asi como t�
           Las carreras en la nube ueden ser divertidas y gratificantes. Pero, ¿qué hace realmente una persona que trabaja en estos campos? Con una gran variedad de trabajos y compañias que usan la nube, no solo hay una respuesta a esta pregunta. Explore los videos y los recursos que aparecen a continuación para conocer algunas de las personas y los clientes que están solucionando grandes problemas de maneras innovadoras y creativas.
           https://www.youtube.com/watch?v=sSack6iIFuc
           
+          mY ROLE WE CAN BE UNXPEND CH DT FOR BI DT ANALITICT TEAMS DATA USING DEPENDS ON THE PROBLEM ROLE it not just bussniss decitions 
+          diferebce BIg Data an Data S, boths ahve computers similitudes computing our artificia neural networks people 
+          asking my hey can you so turn yo somebody being very succesfull in the market introduction to big data 
+          interetin set of the wich folllow i actuly go stander to common management an realise data is a huge problem in 
+          an electronic form to optimiza for healtl care so the ideae for the goverment is the catch is systel data base so are three other companies founded pixier normalize data cumpueable
+          wrking together to solve problems conection with the team
+          Open Sorce Spark
+          the most recent trusted analitics platform that by the way you run integrate all the data tranfomation maybe tool or capabilities wich aplication deveopers beliveme is depndin on a hole normalization software engeniering team to be art of prodction ambient, traduction other lenguage and skill is really enteri ecosistem 
+          
+          
+          
           
           Amazon Student Programs: AWS CLoud Support Associate
           "I decided to join Amazon because I feel like it's the coolest company out there right now, it's very quickly growing it's changing the world in e-commerce and cloud computing platform an I want you to be part of that changue"
