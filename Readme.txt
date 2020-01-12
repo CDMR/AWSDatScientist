@@ -8,46 +8,18 @@ Modulo1: Datos y bases de datos: Big Data, la arquitectura de datos, asi como t�
           LAs empresas optan cada vez más por la nue para implementar sus aplicaciones y analizar datos. nO ES NINGUNA SORPRESA QUE ESTAS COMPAÑIAS CONTRATEN TRABAJADORES QUE PUEDAN AYUDARLOS A DESARROLLar y administrar una arquitectura en la nube.
           Las carreras en la nube ueden ser divertidas y gratificantes. Pero, ¿qué hace realmente una persona que trabaja en estos campos? Con una gran variedad de trabajos y compañias que usan la nube, no solo hay una respuesta a esta pregunta. Explore los videos y los recursos que aparecen a continuación para conocer algunas de las personas y los clientes que están solucionando grandes problemas de maneras innovadoras y creativas.
           
- Speaker 1: Welcome to date of this podcast I'm Jeff bar tab speak with Bob Rogers of Intel corporation Bob is the chief data scientist for big data solutions before we get started one quick note.
-Speaker 1: Due to an error on my part I failed to record my side of the conversation instead of troubling Bob for a second interview I simply listen to his answer and jeopardy style to buy best to create some sort of a questions welcome to the podcast Bob hi Jeff thanks it's really great to be here.
-Speaker 1: Give me a sense of what you do as a data scientist so I I can I can tell you about my my role and then we can we can kind of expand that to.
-Speaker 0:
-Speaker 1: To.
-Speaker 0: Broader broader data scientist roles.
-Speaker 1: So as chief data scientist for big data at Intel.
-Speaker 0: I work with both our internal analytics teams and also.
-Speaker 1: Our customers to help them really get the most out of analytics and.
-Speaker 0: It so that they asked the right questions that they know how to use their data that they're using their their analytics and data center stack in the most up most valuable way possible.
-Speaker 1: I see my mission as.
-Speaker 0: Putting powerful analytics in the hands of every decision maker.
-Speaker 1: So that that has.
-Speaker 0: Of a an implication that.
-Speaker 1: It's it's not just business decision makers it's not just.
-Speaker 0: The most advanced data scientists but it's people who are doing analytics all the way down from you know from people who are just transitioning from analytics and about you know analysis roles.
-Speaker 1: To.
-Speaker 0:
-Speaker 0: To really full blown data scientists.
+ Speaker 1: Welcome to date of this podcast I'm Jeff bar tab speak with Bob Rogers of Intel corporation Bob is the chief data scientist for big data solutions before we get started one quick note Due to an error on my part I failed to record my side of the conversation instead of troubling Bob for a second interview I simply listen to his answer and jeffardy style to buy best to create some sort of a questions welcome to the podcast Bob 
+ 
+hi Jeff thanks it's really great to be here.
+
+Speaker 1: Give me a sense of what you do as a data scientist 
+
+so I I can I can tell you about my my role and then we can we can kind of expand that to. To Broader broader data scientist roles So as chief data scientist for big data at Intel I work with both our internal analytics teams and also Our customers to help them really get the most out of analytics and It so that they asked the right questions that they know how to use their data that they're using their their analytics and data center stack in the most up most valuable way possible I see my mission as Putting powerful analytics in the hands of every decision maker So that that has Of a an implication that It's it's not just business decision makers it's not just The most advanced data scientists but it's people who are doing analytics all the way down from you know from people who are just transitioning from analytics and about you know analysis roles To To really full blown data scientists.
+
 Speaker 1: Now give the phrases big data and data scientists are both very recent terms how did you get to where you are.
-Speaker 1: So my my career path was as with many data scientists was a.
-Speaker 0: A winding and I'm definitely not when you're one.
-Speaker 1: I started with a PhD in physics I was an astrophysicist.
-Speaker 0: And my work involved doing computer simulations of.
-Speaker 1: Stuff.
-Speaker 0: Falling into a supermassive black holes and so.
-Speaker 1: Early on this is a late eighties early nineties that was fairly computer a.
-Speaker 0: Kind of work for an astrophysicist.
-Speaker 1: I got interested during my post doc and.
-Speaker 0:
-Speaker 1: Computing the way the brain computes with artificial neural networks and ended up.
-Speaker 0: Doing both academic work and writing a book on time series for casting with an all nuts and.
-Speaker 1: Lo and behold I ended up running and.
-Speaker 0: Running a hedge fund for twelve years so.
-Speaker 1: Literally started calling me and asking me.
-Speaker 0: When I was a post on.
-Speaker 1: Hey.
-Speaker 0: Can you forecast stock market with your technology and I thought well that sounds like a good a good use case.
-Speaker 1: So turned out I knew somebody who had a a trading firm.
-Speaker 0: We started a new company and ended up.
+
+Speaker 1: So my my career path was as with many data scientists was a A winding and I'm definitely not when you're one I started with a PhD in physics I was an astrophysicist And my work involved doing computer simulations of.
+Speaker 1: Stuff Falling into a supermassive black holes and so Early on this is a late eighties early nineties that was fairly computer a Kind of work for an astrophysicist I got interested during my post doc and Computing the way the brain computes with artificial neural networks and ended up. Doing both academic work and writing a book on time series for casting with an all nuts and Lo and behold I ended up running and Running a hedge fund for twelve years so people Literally started calling me and asking me When I was a post on Hey Can you forecast stock market with your technology and I thought well that sounds like a good a good use case So turned out I knew somebody who had a a trading firm We started a new company and ended up.
 Speaker 0: Being very successful for twelve years doing quantitative trading in the futures markets.
 Speaker 1: So that was an interesting twist for a.
 Speaker 0: For a.
